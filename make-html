@@ -1,0 +1,1 @@
+pandoc -N paper.md -o paper.html --bibliography biblio.bib --csl american-geophysical-union.csl --css=file:///home/will/Desktop/style1.css

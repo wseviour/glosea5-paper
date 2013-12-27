@@ -1,6 +1,6 @@
-glosea5-paper
+Seasonal forecasting of the polar stratosphere and its coupling with the troposphere
 =============
 
-Paper on the stratosphere in GloSea5 seasonal forecasts
+William Seviour, Steven Hardiman, Lesley Gray, Neal Butchart and Adam Scaife
 
-This is the first edit 
+
